@@ -1,6 +1,6 @@
 {
   "name": "stream-to-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert Node.js readable streams to generator functions",
   "main": "lib/index.js",
   "scripts": {
