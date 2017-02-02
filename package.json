@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/SEAPUNK/stream-to-generator#readme",
   "devDependencies": {
-    "ava": "^0.17.0",
+    "ava": "^0.18.0",
     "coveralls": "^2.11.12",
     "nyc": "^10.0.0",
     "standard": "^8.0.0"
